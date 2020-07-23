@@ -12,6 +12,9 @@ Suppose we know that there is going to be an ODI match between Team A and Team B
 <h2>Data Collection</h2>
 Ball by ball records of every international ODI match is available on the web, in computer readable format. The data has been gathered from <a href="https://cricsheet.org/"><u>Cricsheet</u></a>.Entire dataset has been built from scratch and every feature has been normalised before feeding into the model. 
 <br>
+<h2>Feature engineering</h2>
+ <img src="team_features.png" alt="team_features" width="500" height="400"> 
+
 <h2>The Main Approach</h2>
 <ul>
   <li>I experimented with various classification models like Naive Bayes, Logistic Regression, Random Forest, SVC etc.</li>  
