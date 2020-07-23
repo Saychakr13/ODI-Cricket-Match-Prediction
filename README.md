@@ -21,6 +21,7 @@ Ball by ball records of every international ODI match is available on the web, i
   <li>However when I tried to exploit the LSTM network it was actually a colossal failure. Due to lack of expertise I might have gone wrong with the fundamental idea, but I definitely plan on working on it at a later point of time.
 </li>
 </ul>
+<h2>Results</h2>
  <img src="results.png" alt="Results" width="500" height="400"> 
 <h2>Conclusion</h2>
 It is possible to predict the winner of ODI  cricket games in more than two thirds of instances. This is an improvement upon levels present in the gambling industry today and implies a potential financial opportunity. However, the overall level of accuracy is lower than that observed in many other sports and undergoes more significant fluctuations. This suggests that ODI cricket has a relatively high level of instability or randomness within it, which should come as no surprise to those familiar with the game.<br>
